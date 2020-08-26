@@ -1,2 +1,3 @@
-# stdlib
-Standard Library for the Bunny programming language
+# Standard Library
+
+Standard Library for the Bunny programming language.
